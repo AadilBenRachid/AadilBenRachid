@@ -18,10 +18,10 @@
 
 ### 👉 Programming languages
 
-<p align="center"> 
+<p align="center">
     <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
+    </a>
 </p>
 
  ### 👉 Software & Tools
