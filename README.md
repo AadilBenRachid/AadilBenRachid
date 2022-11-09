@@ -8,7 +8,7 @@
 ## :sassy_man:  About me
 - :school: I am a 'Junior' Data Analyst currently studying at [@Ironhack](https://www.ironhack.com/)
 - :technologist: I love using Software as a solution for every `Problem`
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY LINKEDIN](https://www.linkedin.com/in/aadil-ben-rachid-18494813b/).
 - :nerd_face: Always `learning new things`
 
 <br>
